@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Layout from './conpoments/Layout/Layout';
+import Layout from './conponents/Layout/Layout';
 
 export default class App extends Component {
   static propTypes = {};
